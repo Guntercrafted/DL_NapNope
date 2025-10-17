@@ -58,49 +58,9 @@ dist/
 *.spec
 
 # ===========================
-# Dataset / Media files
-# ===========================
-data/
-dataset/
-datasets/
-*.mp4
-*.avi
-*.mov
-*.wav
-*.mp3
-*.zip
-*.tar.gz
-*.jpg
-*.jpeg
-*.png
-*.bmp
-*.gif
-
-# ===========================
-# Model Weights / Checkpoints
-# ===========================
-models/
-*.weights
-*.ckpt*
-*.pth
-*.pt
-
-# ===========================
-# IDE / Editor Files
-# ===========================
-.vscode/
-.idea/
-*.code-workspace
-
-# ===========================
 # App Specific
 # ===========================
 notification/__pycache__/
 gag/__pycache__/
 app/__pycache__/
 assets/__pycache__/
-
-# Keep these essential media files
-!gag/0.png
-!notification/sound_notification.mp3
-!assets/gag.png
