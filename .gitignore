@@ -34,16 +34,6 @@ Thumbs.db
 desktop.ini
 
 # ===========================
-# Logs / Snapshots / Outputs
-# ===========================
-logs/
-snapshots/
-results/
-__output__/
-*.csv
-*.txt
-
-# ===========================
 # Temporary / Cache
 # ===========================
 *.tmp
